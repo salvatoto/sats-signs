@@ -27,5 +27,5 @@ ADVANCED
 
 ## Notes
 
-- [] Logos can be listed on the website and merchants can re-use logos with modifications if desired.
-- [] This can be the beginning of a bigger shared resource for Bitcoin Communities!
+- Logos can be listed on the website and merchants can re-use logos with modifications if desired.
+- This can be the beginning of a bigger shared resource for Bitcoin Communities!
